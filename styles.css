@@ -1,0 +1,10 @@
+main {
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    margin: auto;
+}
+
+.game-board {
+    border-style: solid;
+}
