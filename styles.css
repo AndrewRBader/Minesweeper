@@ -16,3 +16,7 @@ main {
     height: 500px;
 }
 
+.start-button-container {
+    border-style: solid;
+    height: 100%;
+}
