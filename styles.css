@@ -9,6 +9,8 @@ main {
 }
 
 .game-board {
+    display: flex;
+    justify-content: center;
     border-style: solid;
     background-color: rgb(0, 81, 255);
     margin: auto;
@@ -16,7 +18,7 @@ main {
     height: 500px;
 }
 
-.start-button-container {
-    border-style: solid;
-    height: 100%;
+.start-button {
+    margin-top: 60%;
+    height: 5%;
 }
