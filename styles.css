@@ -19,7 +19,15 @@ main {
     height: 500px;
 }
 
-.setup-button {
-    margin-top: 60%;
-    height: 5%;
+.tile-number {
+    display: flex;
+    flex-direction: column;
+    border-style: solid;
+    margin-top: 40%;
+    height: 30%;
+    width: 40%;
+}
+
+.level-button {
+    height: 25%;
 }
