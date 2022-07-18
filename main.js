@@ -1,1 +1,3 @@
-const setupGame = () => alert('Andrew is building the game');
+$('.setup-button').click(setupGame = () => {
+    $('.setup-button').hide();
+});
