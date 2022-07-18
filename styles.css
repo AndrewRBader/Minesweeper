@@ -1,6 +1,7 @@
 main {
     display: flex;
     justify-content: center;
+    text-align: center;
     flex-direction: column;
     width: 500px;
     height: 700px;
@@ -18,7 +19,7 @@ main {
     height: 500px;
 }
 
-.start-button {
+.setup-button {
     margin-top: 60%;
     height: 5%;
 }

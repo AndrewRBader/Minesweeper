@@ -1,1 +1,1 @@
-console.log('we got js');
+const setupGame = () => alert('we got js');
