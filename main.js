@@ -14,3 +14,4 @@ $('.custom-board').click(setupGame = () => {
     $('.tile-number').hide();
 });
 
+
